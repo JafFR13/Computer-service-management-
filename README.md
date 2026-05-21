@@ -11,19 +11,19 @@ User need to login before use the app
 
 ### 2. Admin Dashboard
 This screen allows administrator to view all ongoing repairs, filter status, and add new service entries.
-![Admin Dashboard](./screenshots/dashboard_admin.png)
+![Admin Dashboard](./screenshots/IMG_202605141_124014025.png)
 
 ### 3. Technician Dashboard
 This menu is used for technician to see all ongoing repair and submit the reparation 
-![Technician Dashboard](./screenshots/technician.png)
+![Technician Dashboard](./screenshots/IMG_202605141_124018511.png)
 
 ### 4. Input Data Page
 This page is used to input customer data and damaged devices easier.
-![Input Data](./screenshots/input-data.png)
+![Input Data](./screenshots/IMG_202605141_124028704.png)
 
 ### 5. Service logs
 This page shows all the repair report. 
-![Service Logs](./screenshots/service-logs.png)
+![Service Logs](./screenshots/IMG_202605141_124031808.jpeg)
 
 ---
 
