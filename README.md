@@ -7,7 +7,7 @@ A robust Java-based desktop application developed during my internship to digiti
 To give you a quick tour of the application, here is how the system looks in action:
 ### 1. Login Menu
 User need to login before use the app
-![Login Menu](./screenshots/login.png)
+![Login Menu](./screenshots/IMG_202605141_124008415.png)
 
 ### 2. Admin Dashboard
 This screen allows administrator to view all ongoing repairs, filter status, and add new service entries.
